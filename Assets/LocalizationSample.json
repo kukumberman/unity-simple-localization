@@ -1,0 +1,12 @@
+{
+  "English": {
+    "TOP_TITLE": "Cucumber",
+    "BTN_CLICK_TITLE": "Click me!",
+    "TIMES_CLICKED": "Times clicked: {0}"
+  },
+  "Russian": {
+    "TOP_TITLE": "Огурец",
+    "BTN_CLICK_TITLE": "Нажми сюда!",
+    "TIMES_CLICKED": "Кликнуто {0} раз!"
+  }
+}
