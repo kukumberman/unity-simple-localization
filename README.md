@@ -3,6 +3,7 @@
 Simple implementation of localization/internationalization (i18n) for Unity games
 
 ## Preview
+![](./preview.webp)
 
 ## Features
 - Display static and dynamic values
